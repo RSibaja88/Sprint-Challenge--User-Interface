@@ -176,6 +176,12 @@ p {
     align-items: flex-end;
 }
 
+.navBar a {
+    text-decoration: none;
+    font-size: 10pt;
+    color: black;
+}
+
 .topContent {
     display: flex;
     flex-wrap: wrap;
